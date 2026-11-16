@@ -2,6 +2,7 @@ node_modules/
 dist/
 .sites-runtime/
 *.local
+.vercel/
 
 # Local files excluded from GitHub export
 dist/

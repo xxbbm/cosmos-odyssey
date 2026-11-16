@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.sites-runtime/
+*.local
+
+# Local files excluded from GitHub export
+dist/
+node_modules/
+.env
+.env.*
+!.env.example
+.sites-runtime/
+.openai/
+
